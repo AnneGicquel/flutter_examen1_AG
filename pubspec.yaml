@@ -37,6 +37,11 @@ dependencies:
   cupertino_icons: ^1.0.2
   google_fonts: ^6.1.0
 
+
+  # 🟢 https://pub.dev/packages/video_player
+  video_player: ^2.8.1
+  # 🟢 then "run pub get" ‼ 
+
 dev_dependencies:
   flutter_test:
     sdk: flutter
@@ -89,3 +94,4 @@ flutter:
   #
   # For details regarding fonts from package dependencies,
   # see https://flutter.dev/custom-fonts/#from-packages
+

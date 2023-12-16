@@ -23,10 +23,12 @@ class MyApp extends StatelessWidget {
           displayLarge: const TextStyle(
             fontSize: 72,
             fontWeight: FontWeight.bold,
+            
           ),
           titleLarge: GoogleFonts.acme(
-            fontSize: 30,
+            fontSize: 26,
             fontStyle: FontStyle.italic,
+          
           ),  
           bodyMedium: GoogleFonts.merriweather(),
           displaySmall: GoogleFonts.pacifico(),
